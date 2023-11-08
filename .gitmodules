@@ -1,0 +1,6 @@
+[submodule "mtd-backend"]
+	path = mtd-backend
+	url = https://github.com/vacuitydev/mtd-backend
+[submodule "mtd-frontend"]
+	path = mtd-frontend
+	url = https://github.com/vacuitydev/mtd-frontend.git
